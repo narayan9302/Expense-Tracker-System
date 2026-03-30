@@ -83,4 +83,4 @@ g++ main.cpp -o expense
 
 ## 👨‍💻 Author
 
-Your Name
+Narayan Chouhan
